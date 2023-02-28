@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Michaldariusznowakowski
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Rust, Java, Python, C#
 - 📫 How to reach me michaldariusznowakowski@protonmail.com
