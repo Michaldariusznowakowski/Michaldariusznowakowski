@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michał Dariusz Nowakowski</h1>
 <h3 align="center">Passionate IT Enthusiast | Junior Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at [michaldariusznowakowski.pl](michaldariusznowakowski.pl)
+- 👨‍💻 All of my projects are available at [michaldariusznowakowski.pl](https://michaldariusznowakowski.pl)
 
 - 📫 How to reach me **michaldariusznowakowski@proton.me**
 
-- 📄 Know about my experiences [michaldariusznowakowski.pl/cv](michaldariusznowakowski.pl/cv)
+- 📄 Know about my experiences [michaldariusznowakowski.pl/cv](https://michaldariusznowakowski.pl/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
