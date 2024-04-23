@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **michaldariusznowakowski@proton.me**
 
-- 📄 Know about my experiences [michaldariusznowakowski.pl/cv](https://michaldariusznowakowski.pl/cv)
+- 📄 Know about my experiences [michaldariusznowakowski.pl/cv](http://michaldariusznowakowski.pl/files/Michal_Nowakowski_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
