@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michał Dariusz Nowakowski</h1>
 <h3 align="center">Passionate IT Enthusiast | Junior Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [michaldariusznowakowski.pl](https://michaldariusznowakowski.pl)
 
 - 📫 How to reach me **michaldariusznowakowski@proton.me**
 
